@@ -3,10 +3,10 @@
 k-means algorithm for image compression
 
 Generalized K-means algorithm that was used:
-  Initialize k cluster centers, {<img src="https://latex.codecogs.com/gif.latex?c_1, c_2,..., c_k " /> , c2,...,ck}, randomly
+  Initialize k cluster centers, {<img src="https://latex.codecogs.com/gif.latex?c_1"/>, <img src="https://latex.codecogs.com/gif.latex?c_2"/>,..., <img src="https://latex.codecogs.com/gif.latex?c_k"/>}, randomly
 
   Do:
-    Decide the cluster memberships of each data point, xi , by assigning it to the nearest cluster center
+    Decide the cluster memberships of each data point, <img src="https://latex.codecogs.com/gif.latex?x_i"/> , by assigning it to the nearest cluster center
     Adjust the cluster centers
   While any cluster center has been changed.
 
