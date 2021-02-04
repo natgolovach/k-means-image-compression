@@ -7,9 +7,9 @@ Generalized K-means algorithm that was used:
 
   Do:
   
-    Decide the cluster memberships of each data point, <img src="https://latex.codecogs.com/gif.latex?x_i"/> , by assigning it to the nearest cluster center
+   1. Decide the cluster memberships of each data point, <img src="https://latex.codecogs.com/gif.latex?x_i"/> , by assigning it to the nearest cluster center
     
-    Adjust the cluster centers
+   2. Adjust the cluster centers
     
   While any cluster center has been changed.
 
