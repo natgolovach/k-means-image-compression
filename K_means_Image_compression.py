@@ -194,7 +194,7 @@ def compress_image(filename, path,k=4):
 
 
 
-directory = 'data\\'
+directory = '_data\\'
 i = 1
 for filename in os.listdir(directory):
 
