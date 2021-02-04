@@ -17,11 +17,7 @@ Original image:
 
 ![alt text](https://github.com/natgolovach/k-means-image-compression/blob/main/_data/ng.jpg)
 
-2 clusters, 
-
-0.12900209426879883 sec runtime
-
-Total iterations:  12
+2 clusters,<\br> 0.12900209426879883 sec runtime<\br>Total iterations:  12
 
 ![alt text](https://github.com/natgolovach/k-means-image-compression/blob/main/ng.jpg_Compressed_2_clusters.png)
 
