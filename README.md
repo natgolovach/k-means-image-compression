@@ -13,7 +13,7 @@ Generalized K-means algorithm that was used:
     
   While any cluster center has been changed.
 
-Original image:
+**Original image:**
 
 ![alt text](https://github.com/natgolovach/k-means-image-compression/blob/main/_data/ng.jpg)
 
