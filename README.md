@@ -3,6 +3,7 @@
 k-means algorithm for image compression
 
 Original image:
+
 ![alt text](https://github.com/natgolovach/k-means-image-compression/blob/main/_data/ng.jpg)
 
 2 clusters, 0.12900209426879883 sec runtime
